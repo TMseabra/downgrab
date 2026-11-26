@@ -8,7 +8,7 @@ Descarrega ficheiros em varias partes ao mesmo tempo, permite pausar e retomar, 
 
 ## Funcionalidades (plano)
 
-- [ ] Descarregar um URL com N ligacoes em paralelo (HTTP Range)
+- [x] Descarregar um URL com N ligacoes em paralelo (HTTP Range)
 - [ ] Pausar e retomar downloads
 - [ ] Fila de downloads com barra de progresso
 - [ ] Interface grafica simples

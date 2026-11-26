@@ -18,4 +18,4 @@ DownGrab: gestor de downloads pessoal em Python (estilo IDM). Projeto de aprendi
 - Testes: `pytest`
 
 ## Estado atual
-Fase 1 (nucleo em linha de comandos) por fazer.
+Fase 1 (nucleo em linha de comandos) feita. Proxima: Fase 2 (pausar e retomar).
